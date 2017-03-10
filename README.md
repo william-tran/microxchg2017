@@ -44,5 +44,7 @@ http://docs.pivotal.io/spring-cloud-services/
 https://connect2id.com/products/nimbus-jose-jwt
 
 ## Here are some excellent blog posts by Prabath Siriwardena, who explains the fundamentals very well.
-https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml
-https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies
+
+[Securing Microservices](https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838#.pdhie0o6l)
+
+[JWT, JWS and JWE for Not So Dummies!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3#.wac92a69y)
