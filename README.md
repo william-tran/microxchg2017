@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1gmMlvBW8JNGGo0rY_CnMt6qRYGCGVfQCvevkxVYh
 Whether we see more of this solution or not entirely depends on feedback from the community. Please direct any feedback, both about the presentation, the ideas, or the solution, through github issues on the repo linked below. You can also email me.
 
 # The Code
-https://github.com/pivotal-cf-experimental/spring-cloud-services-security
+https://github.com/william-tran/microservice-security-jose
 
 # Questions After the Talk
 
