@@ -1,5 +1,5 @@
 # microxchg2017
-Resources for my presentation at microXchg 2017 in Berlin, Germany.
+Resources for "Beyond OAuth2: End to End Microservice Security" presented at microXchg 2017 in Berlin, Germany.
 
 # Video
 https://www.youtube.com/watch?v=G7A6ftCbVQY
