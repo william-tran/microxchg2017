@@ -61,6 +61,10 @@ Yes, if you have a PKI you can use that to provide the key material for signing.
 
 If you are using the registry on its own without a PKI, then the entire system would be compromised. It's as if you were using a PKI and the private key for your CA were compromised.  
 
+## RSA signing for JWS is expensive! You should look into HMAC.
+
+Key exchange for the symmetric key could happen via a signed and encrpyted JWS/JWE using key material registered in the service registry, and then cache that locally for some interval. Thanks for the suggestion.
+
 # Links
 
 ## Spring Cloud Services for Pivotal Cloud Foundry
