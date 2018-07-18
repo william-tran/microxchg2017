@@ -5,7 +5,7 @@ Resources for "Beyond OAuth2: End to End Microservice Security" first presented 
 https://www.youtube.com/watch?v=G7A6ftCbVQY
 
 # Slides
-https://docs.google.com/presentation/d/1gmMlvBW8JNGGo0rY_CnMt6qRYGCGVfQCvevkxVYhXWs/edit?usp=sharing
+https://docs.google.com/presentation/d/1c-OVDgCMpg1mo7nnyk7ho57y_ODIxH9yjTpFWkqqouY/edit?usp=sharing
 
 # Feedback
 Whether we see more of this solution or not entirely depends on feedback from the community. Please direct any feedback, both about the presentation, the ideas, or the solution, through github issues on the repo linked below. You can also [tweet](https://twitter.com/fivetenwill) or [email](mailto:fivetenwill@gmail.com) me.
